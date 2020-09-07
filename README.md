@@ -5,7 +5,7 @@ This repository implements two llvm passes. FunctionInfo prints out function inf
 Here's the instruction to run the pass on test code.
 1. Clong the repo.
 2. Build passes
-`makdir build; cd build; cmake ..; make; cd ..`
+`mkdir build; cd build; cmake ..; make; cd ..`
 3. Build test code
 ```
 cd tests
